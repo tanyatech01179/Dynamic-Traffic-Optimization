@@ -1,0 +1,21 @@
+{
+  "data_source": "METR-LA (REAL HDF5: data/metr-la.h5)",
+  "n_timestamps": 34272,
+  "n_sensors": 207,
+  "missing_pct": 8.109350825676486,
+  "graph_nodes": 207,
+  "graph_edges": 509,
+  "graph_avg_degree": 4.917874396135265,
+  "graph_components": 1,
+  "graph_diameter": 21,
+  "astar_mean_expansion_ratio": 0.5268110903505732,
+  "ridge_mae_5min": 2.412255212949097,
+  "ridge_mae_30min": 3.9739506857364426,
+  "routing_mean_min": {
+    "Static": 24.350041767622805,
+    "Reactive": 20.01012361636468,
+    "Predictive": 20.01456213657904,
+    "Oracle": 18.936776322442533
+  },
+  "predictive_vs_reactive_min": 0.004438520214362537
+}
